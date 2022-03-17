@@ -11,4 +11,3 @@ function boolToWord(bool){
 console.log(boolToWord('Rajea'));
   
   
-  
